@@ -1,0 +1,1732 @@
+AIVD
+Jaarverslag 2018
+
+Voorwoord
+Voor u ligt het openbare jaarverslag van de AIVD over 2018. Het jaarverslag
+biedt de mogelijkheid om inzicht te geven in waar wij ons, met tweeduizend
+collega’s, globaal iedere dag mee bezig hebben gehouden en houden. Wij
+leggen hiermee verantwoording af over ons werk en bieden een blik op ons
+werkveld. Het geeft politiek, pers en publiek zicht op onze activiteiten.
+In een rechtsstaat zoals wij die in Nederland kennen is het, na een kritische
+interne controle, essentieel dat er gedegen externe controle is op een dienst
+die beschikt over ingrijpende bevoegdheden.
+Als over ons in het parlement en in de media wordt gedebatteerd, is dit vaak gebaseerd op de rapporten van
+de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (CTIVD). Deze commissie is ingesteld
+met de inwerkingtreding van de vorige Wet op de inlichtingen- en veiligheidsdiensten in 2002. De CTIVD
+heeft de afgelopen zeventien jaar rond de vijftig meest uiteenlopende onderzoeken naar de AIVD gedaan en
+daarover openhartige en grotendeels openbare rapporten naar buiten gebracht.
+Naast de CTIVD is, met de inwerkingtreding van de nieuwe Wet op de inlichtingen- en veiligheidsdiensten
+2017 afgelopen jaar, nog een extra controle toegevoegd aan ons werk. Voordat wij een bijzondere
+bevoegdheid mogen inzetten en nadat de minister daarin heeft toegestemd, toetst de onafhankelijke
+Toetsingscommissie Inzet Bevoegdheden (TIB) deze toestemming.
+De TIB en de CTIVD zijn terecht streng en kritisch. Dat maakt ons werk niet altijd even makkelijk. Maar wij als
+AIVD’ers weten dat toezicht van groot belang is voor ons en voor de samenleving.
+Natuurlijk vindt daarnaast ook parlementaire controle plaats. De vaste Kamercommissie voor Binnenlandse
+Zaken ziet toe op het reilen en zeilen van de dienst voor zover dat openbaar kan. Waar het staatsgeheime en
+operationele informatie betreft, legt de minister over ons handelen verantwoording af in de Commissie
+voor de Inlichtingen- en Veiligheidsdiensten.
+Ons werk en de wet staan ons niet toe om in alle openheid over onze activiteiten te spreken. Ook in dit
+openbare jaarverslag kunnen wij niet het achterste van onze tong laten zien. Toch zijn wij niet zozeer een
+geheime dienst - dan zou u immers niet van ons bestaan weten – maar vooral een dienst met geheimen.
+Alleen op die manier kunnen wij dreigingen tijdig onderkennen. Het feit dat twee commissies toezicht
+houden en daarover rapporteren, geeft ons onze license to operate. Zij zorgen voor de legitimiteit om als AIVD
+in een democratie te functioneren. Daardoor kan de samenleving het vertrouwen hebben dat wij hier het
+juiste doen en dat wij het juist doen, in het belang van de nationale veiligheid en de democratische
+rechtsstaat.
+
+Dick Schoof
+Directeur-generaal
+Algemene Inlichtingen- en Veiligheidsdienst
+|3
+
+Inhoud
+
+Inleiding 					6
+Spionage en ongewenste buitenlandse inmenging
+
+8
+
+(Jihadistisch) terrorisme en de radicale islam		
+
+13
+
+Extremisme					18
+Voor een veilig Nederland
+
+			20
+
+Een nieuwe wet					23
+
+Bijlage: cijfers					26
+
+|5
+
+Inleiding
+Niet vaak heeft de AIVD zo nadrukkelijk in de
+belangstelling gestaan als in het jaar 2018. Reden
+daarvoor was voornamelijk de aandacht voor de
+nieuwe Wet op de inlichtingen- en veiligheidsdiensten 2017 (Wiv 2017). In maart van dat jaar
+mocht de Nederlandse kiezer zich hierover in een
+referendum uitspreken.
+Deze nieuwe wet, die per 1 mei 2018 in werking is
+getreden, is nodig om hedendaagse dreigingen het
+hoofd te bieden in een tijd waarin de samenleving
+in al haar facetten doordrongen en afhankelijk is
+van internettechnologie.
+De Wiv 2017 is er ook om burgers de zekerheid te
+geven dat gegevens zo gericht mogelijk worden
+vergaard en alleen worden bewaard als zij van
+belang zijn voor ons werk. Overige data moeten
+direct worden vernietigd. Ook toetst voortaan een
+onafhankelijke commissie de verzoeken om een
+bijzondere, inbreukmakende, bevoegdheid te
+mogen inzetten voordat wij daar daadwerkelijk toe
+kunnen overgaan.
+Tot de inwerkingtreding op 1 mei hebben wij met
+grote inzet gewerkt aan het klaarstomen van de
+organisatie voor de wet. Toch heeft de implementatie van de wet een grotere impact dan vooraf
+gedacht. Het kostte meer tijd en inzet om de
+waarborgen voor de burgers, waaronder de
+onafhankelijke toetsing vooraf en de behandeling
+van data, in de werkprocessen door te voeren,
+omdat dit diep ingrijpt op de kern van ons werk: het
+verwerven en verwerken van gegevens. Ons werk is
+hierdoor blijvend veranderd.
+Tegelijk zijn de dreigingen die op Nederland
+afkomen complex en agressief. Vrijwel allemaal
+hebben ze een aanzienlijke digitale component.
+Staten proberen besluitvorming te weten te komen
+en te beïnvloeden, bedrijfsgeheimen te stelen of
+6|
+
+hun (ex-)landgenoten te intimideren en te
+beïnvloeden. Ook trachten zij toegang te krijgen tot
+en zich in te nestelen in systemen voor vitale
+processen in ons land. Dit biedt hen de mogelijkheid om sabotage te plegen.
+De aanhouding van zeven verdachten wegens de
+voorbereiding van een terroristische aanslag en
+enkele incidenten die zijn voorgevallen, geven aan
+dat ons land nog altijd een doelwit kan zijn van
+jihadistisch of radicaalislamitisch terrorisme.
+Daarnaast verhardt het maatschappelijk debat
+doordat bevolkingsgroepen meer tegenover elkaar
+komen te staan. Er is sprake van een groeiend
+wantrouwen tegen de overheid, onder meer
+aangewakkerd door extremistische uitingen. Ook
+proberen bepaalde radicale aanjagers groepen
+jonge moslims los te weken van de Nederlandse
+samenleving door hen daarvan afstand te laten
+nemen.
+Dit alles speelt zich af tegen een steeds veranderend
+internationaal decor.
+De situatie in het Midden-Oosten blijft gespannen
+en instabiel. De veiligheidssituatie in Irak en Syrië is
+nog altijd slecht. Het zogenoemde ‘kalifaat’ van de
+Islamitische Staat in Irak en al-Sham (ISIS) heeft al
+zijn terrein verloren. De terroristische dreiging is er
+niet minder om geworden. ISIS is ondergronds
+gegaan en slaagt er vrijwel dagelijks in met
+aanslagen de regio te ontregelen. Ook Al Qaida is
+nog altijd actief en manifesteert zich meer en meer.
+Bij de strijd in Syrië zijn ook in 2018 chemische
+wapens ingezet. In april verloren tientallen burgers
+het leven bij een aanval met chloorgas op de stad
+Douma.
+De historische tegenstellingen tussen de grote
+spelers Iran en Saoedi-Arabië hebben een bepalende invloed op de geopolitieke situatie.
+
+Het imago van de vooruitstrevende en moderniserende Saoedische kroonprins Bin Salman heeft
+een deuk opgelopen nadat de kritische journalist
+Jamal Khashoggi werd gedood in het Saoedische
+consulaat in Turkije.
+Voor Iran groeit de onzekerheid nu de Verenigde
+Staten zich hebben teruggetrokken uit het
+nucleaire akkoord. De Europese Unie blijft
+vasthouden aan het akkoord met Iran. Het
+non-proliferatieverdrag dat afgelopen jaar vijftig
+jaar bestond, staat onder druk vanwege de
+oplopende spanningen tussen mogendheden,
+afnemende steun voor internationale samenwerkingsverbanden en de protectionistische
+houding van diverse leiders.
+In 2018 leek een directe nucleaire dreiging vanuit
+Noord-Korea te zijn afgenomen toen staatshoofden
+Donald Trump en Kim Jong-un elkaar de hand
+schudden en Noord-Korea zei bereid te zijn om
+nucleaire installaties te ontmantelen. De uitkomsten van de besprekingen zijn erg onzeker.
+Tussen Rusland en het Westen is de spanning
+onverminderd hoog. President Poetin probeert
+Rusland te positioneren als wereldmacht, ook om
+zijn positie in eigen land te versterken. Hij tracht
+tweedracht te zaaien binnen de NAVO en de EU om
+zijn opponenten zo te verzwakken en gedraagt zich
+agressief richting de Baltische staten.
+De pogingen van de Russische militaire inlichtingendienst GROe om in het Verenigd Koninkrijk
+een oud-inlichtingenofficier te vergiftigen en om in
+Den Haag het netwerk van de Organization for the
+Prohibition of Chemical Weapons (OPCW) te
+hacken, laten de brutaliteit zien waarmee deze
+dienst opereert.
+Aan de andere kant van de wereld verkeert het
+grootste buurland van het Koninkrijk, Venezuela, in
+een diepe crisis. De deplorabele toestand waarin het
+land zich zowel politiek als economisch bevindt,
+
+zorgt ervoor dat de bevolking ernstig te lijden heeft.
+Dit heeft geleid tot miljoenen vluchtelingen, wat ook
+gevolgen heeft voor de stabiliteit van de gebieden
+binnen het Koninkrijk, Aruba, Bonaire en Curaçao.
+Over al deze ontwikkelingen in de wereld om ons
+heen die van belang zijn voor het buitenlandbeleid
+van de Nederlandse regering hebben wij in 2018
+meer dan 300 inlichtingenrapporten opgesteld. Een
+aanzienlijk aantal diende ter ondersteuning van het
+lidmaatschap van de Veiligheidsraad van de
+Verenigde Naties de eerste helft van het jaar.
+Vanuit al onze onderzoeken samen hebben wij
+ruim 900 schriftelijke producten opgesteld,
+waaronder ambtsberichten, inlichtingenberichten
+en -analyses, risicoanalyses, dreigingsinschattingen
+en informatiebeveiligingsadviezen. Steeds vaker
+informeren wij de afnemers van onze producten
+ook mondeling over onze bevindingen.
+De minister-president heeft in 2018 samen met de
+ministers van Binnenlandse Zaken en Koninkrijksrelaties en Defensie de prioriteiten vastgesteld voor
+de onderzoeken van de AIVD en de Militaire
+Inlichtingen- en Veiligheidsdienst (MIVD) voor de
+komende jaren. Hierbij is ook nauw overlegd met
+de ministers van Justitie en Veiligheid en
+Buitenlandse Zaken.
+Deze afspraken zijn opgetekend in de Geïntegreerde
+Aanwijzing Inlichtingen en Veiligheid (GA). Hierin
+staat welke informatie de instanties nodig hebben
+van de AIVD en de MIVD om hun verantwoordelijkheid te kunnen nemen voor de nationale veiligheid. Beide diensten hebben hun eigen onderzoeksterreinen en focus. Deze GA wordt jaarlijks
+geëvalueerd.
+Alle nationale en internationale ontwikkelingen
+tonen het belang van ons werk aan. Daarom heeft
+het kabinet voor 2018 en 2019 geld vrijgemaakt voor
+de groei van de AIVD. Het afgelopen jaar hebben wij
+ruim 190 nieuwe collega’s verwelkomd. In 2019
+hopen wij 200 nieuwe medewerkers aan te trekken.
+|7
+
+Spionage en ongewenste
+buitenlandse inmenging
+Activiteiten van andere landen waarmee zij op
+heimelijke wijze informatie verzamelen in en over
+Nederland en daarmee onze belangen schaden,
+noemen wij spionage. Spionage kan digitaal
+plaatsvinden, bijvoorbeeld door het inbreken in
+een systeem, of fysiek via personen. Het kan gaan
+om belangrijke politieke inlichtingen, bijvoorbeeld
+ten aanzien van besluitvormingsprocessen en
+standpunten van de regering. Ook kan een ander
+land proberen via spionage (bedrijfs)geheimen te
+stelen om daarmee de eigen economie een impuls
+te geven.
+Landen kunnen ook op een andere manier
+proberen Nederlandse belangen te schaden,
+namelijk door invloed uit te oefenen op processen
+in Nederland. Dit scharen wij onder ongewenste
+buitenlandse inmenging: heimelijke politieke
+beïnvloeding, beïnvloeding en intimidatie van hun
+geëmigreerde (ex-)landgenoten, sabotage en
+misbruik van de Nederlandse ICT-infrastructuur.
+Deze bemoeienis is onwenselijk, omdat andere
+landen hiermee het politieke, economische en
+maatschappelijke systeem in Nederland
+ondergraven.
+Als staten digitale middelen inzetten voor spionage
+en sabotage om zo hun eigen politieke, militaire,
+economische en/of ideologische doelen te bereiken
+ten koste van Nederlandse belangen, spreken we
+van een offensief cyberprogramma. Uit onze
+onderzoeken blijkt dat landen als China, Iran en
+Rusland dergelijke cyberprogramma’s hebben,
+gericht tegen Nederland.
+
+Spionage
+
+Iedereen die specifieke of specialistische kennis
+bezit, kan doelwit zijn van spionage. Niet iedereen
+is zich daarvan bewust. Ons onderzoek is erop
+gericht om de politieke en economische veiligheid
+8|
+
+van Nederland te beschermen door dreigingen
+tijdig te zien en personen en instanties alert te
+maken.
+Het jaar 2018 kenmerkte zich op het gebied van
+spionage vooral door de brutaliteit waarmee
+inlichtingenofficieren zich hebben laten zien. De
+poging van de Russische militaire inlichtingendienst GROe om toegang te krijgen tot het netwerk
+van de OPCW in Den Haag toont aan hoe ver deze
+dienst hierin gaat.
+Uit onze onderzoeken is verder gebleken dat
+digitale spionage steeds complexer wordt. Statelijke
+actoren maken in toenemende mate gebruik van
+vaker gebruikte methoden en technieken, waardoor
+het vaststellen van de herkomst van een aanval
+(attributie) wordt bemoeilijkt. Daarnaast gebruiken
+statelijke actoren in toenemende mate internetserviceproviders en managed service providers als
+springplank om binnen te dringen bij een doelwit.
+Deze dienstverleners hebben uit hoofde van hun
+dienstverlening vaak diepgravende, omvangrijke en
+structurele toegang tot informatie van organisaties
+of personen. Zulke methoden bemoeilijken
+detectie, analyse en attributie van digitale
+aanvallen.
+Steeds meer landen richten zich op politieke en/of
+economische spionage. Wij zien in onze onderzoeken dat China, Iran en Rusland daarvan de
+voorhoede vormen.
+
+Politieke spionage
+Voor Rusland is ons land een interessant doelwit
+voor spionage. Het strategisch belang van de
+Nederlandse politiek en rechtspraak is voor Rusland
+sterk toegenomen sinds het neerhalen van vlucht
+MH17 in juli 2014. Zo is er en zal er behoefte blijven
+om informatie in te winnen over de gang van zaken
+rond de onderzoeken naar de ramp. De kans daarop
+wordt alleen maar groter nu Nederland Rusland
+aansprakelijk heeft gesteld voor zijn aandeel in het
+neerhalen van het vliegtuig.
+
+Nederland heeft daarnaast al lange tijd de interesse
+van Rusland vanwege het lidmaatschap van de NAVO
+en de EU. De Russen willen graag te weten komen
+welke positie Nederland in die samenwerkingsverbanden inneemt. Om hier inzicht in te krijgen,
+zetten de inlichtingendiensten naast digitale ook
+nog steeds klassieke spionagemiddelen in, zoals
+het rekruteren van menselijke bronnen.
+
+Het kan voor andere landen interessant zijn om inzicht te
+krijgen in het verkeer tussen een diplomatieke post in het
+buitenland en het ministerie van Buitenlandse Zaken. Wij
+hebben waargenomen dat een aantal Nederlandse
+ambassades in het Midden-Oosten en Centraal-Azië in
+2017 en 2018 doelwit is geweest van digitale aanvallen,
+uitgevoerd door een buitenlandse inlichtingendienst. De
+digitale aanvallen op deze ambassades bevestigen de
+structurele inlichtingenaandacht voor het ministerie van
+Buitenlandse Zaken.
+
+Economische spionage
+Verreweg de grootste dreiging op het gebied van
+economische spionage is afkomstig van China.
+Deze spionage wordt gevoed door Chinese
+economische beleidsplannen, zoals ‘Made in China
+2025’ en de ‘Nieuwe Zijderoutes’, waarmee het land
+zijn economische en geopolitieke invloed kan
+vergroten.
+Deze plannen leiden niet alleen tot economische
+kansen, maar ook tot toenemende competitie met
+westerse en dus ook Nederlandse bedrijven. China
+zet hierbij een breed scala aan (heimelijke)
+middelen in die het verdienvermogen van
+Nederlandse bedrijven ondermijnen en die op
+termijn kunnen resulteren in economische en
+politieke afhankelijkheden. Een van deze middelen
+is (digitale) economische spionage.
+China heeft interesse in Nederlandse bedrijven uit
+de sectoren: hightech, energie, maritiem en life
+sciences & health.
+
+Een andere dreiging voor de nationale veiligheid
+hangt samen met de globalisering. Hierdoor is
+sprake van groeiende economische interactie,
+digitalisering, internationalisering van arbeidsmarkten en productieprocessen en ook de
+liberalisering van het vestigings- en investeringsbeleid. Dit biedt meer mogelijkheden voor
+(heimelijke) verwerving van Nederlandse technologie en bedrijven. Zo kunnen bedrijven overgenomen worden door buitenlandse bedrijven die onder
+invloed staan van hun overheid, of die gemakkelijk
+aan goedkope staatssteun kunnen komen,
+waardoor een ongelijk economisch speelveld
+ontstaat.
+Ook vindt binnen legitieme samenwerkingsverbanden tussen academische en kennisinstellingen
+diefstal van onderzoeksbevindingen plaats.
+Nederlandse innovaties verdwijnen op die manier
+over de grens.
+Het veiligheidsbewustzijn en de weerbaarheid van
+het Nederlandse bedrijfsleven en kennisinstellingen tegen deze risico’s lijken onvoldoende. Dat
+vormt een risico voor de economische veiligheid
+van ons land.
+
+Heimelijke politieke beïnvloeding
+
+Dat een land probeert met open vizier zijn eigen
+belangen te behartigen bij andere landen is
+volstrekt legitiem. Wanneer dit echter het reguliere
+diplomatieke of politieke lobbywerk overstijgt
+omdat een land onder valse vlag opereert, spreken
+we van heimelijke politieke beïnvloeding.
+Heimelijke beïnvloeding kan rechtstreeks gericht
+zijn op politieke besluitvorming, maar kan ook
+indirect plaatsvinden als het gericht is op manipulatie van publieke beeldvorming. Het verspreiden van desinformatie is een middel dat hierbij kan
+worden ingezet. Vaak spelen inlichtingendiensten
+een rol bij heimelijke beïnvloedingsoperaties.
+Rusland is een land dat de afgelopen jaren bij
+|9
+
+voortduring wordt genoemd als het gaat om
+inmenging in politieke processen van andere
+landen. Het land is van oudsher zeer bedreven in
+het heimelijk beïnvloeden van de beeldvorming en
+de publieke opinie in andere landen, wat verstorend kan werken op besluitvormingsprocessen. Een
+voorbeeld van beïnvloeding door Rusland is het
+verspreiden van desinformatie door diverse
+speculaties te verkondigen ten aanzien van de ramp
+met de MH17, waarmee het onderzoek wordt
+vertroebeld. Wij hebben ook geconstateerd dat
+vanuit Rusland, met beperkt effect, pogingen zijn
+gedaan tot online beïnvloeding in het Nederlands
+op sociale media.
+Wij zien daarnaast dat er staten zijn, waaronder
+China, die via onderwijs- en kennisinstellingen
+proberen meningen en publicaties te beïnvloeden
+over hun eigen land. Dat kan gaan om landen
+waarmee de samenwerking op bijvoorbeeld
+wetenschappelijk vlak verder relatief vruchtbaar is.
+Risico is alleen dat er een afhankelijkheid van de
+betreffende overheid ontstaat, bijvoorbeeld
+wanneer onderzoeken worden gefinancierd door
+China of vanuit een bepaalde studie onderzoek
+wordt gedaan naar ontwikkelingen in het bewuste
+land en daarmee de noodzaak bestaat naar dat land
+te reizen. Dat geeft dat land een zekere machtspositie die wel eens wordt misbruikt. Ook journalisten
+krijgen op soortgelijke manier te maken met
+tegenwerking. Bij onwelgevallige publicaties kan
+bijvoorbeeld gedreigd worden met het inhouden
+van werkvergunningen.
+Landen waarvan wij zien dat zij zich met heimelijke
+politieke beïnvloeding bezighouden, zijn onder
+andere China en Rusland.
+
+Beïnvloeding en intimidatie van
+diaspora
+Staten proberen invloed te houden op personen in
+Nederland die uit dat land geëmigreerd zijn
+10 |
+
+(diaspora), gericht op eigen binnenlands politiek
+gewin. In sommige gevallen beschikken deze
+emigranten nog wel over een paspoort van het land
+van herkomst of hebben ze daar familie wonen,
+maar wonen zij zelf inmiddels al langer in
+Nederland. Het kan ook gaan om mensen die hun
+geboorteland om politieke redenen ontvlucht zijn
+en in ons land slachtoffer worden van intimidatie.
+Dergelijke inlichtingen- en inmengingsactiviteiten
+creëren een permanent gevoel van onveiligheid in
+de betreffende gemeenschappen. Hiermee kunnen
+ook nationale spanningen geëxporteerd worden
+naar ons land. De invloed gaat soms zo ver dat
+mensen zich beperkt voelen in de uitoefening van
+hun grondrechten, zoals de vrijheid van meningsuiting. Veiligheidsdiensten van deze staten
+schrikken er niet voor terug om ook familie van
+emigranten in het land van herkomst onder druk te
+zetten.
+
+Iran heeft belangstelling voor personen en organisaties
+die te boek staan als tegenstander van het huidige regime.
+De AIVD heeft sterke aanwijzingen dat Iran betrokken is
+bij twee moorden op Nederlands grondgebied, in 2015 in
+Almere en in 2017 in Den Haag. In beide gevallen ging het
+om tegenstanders van het huidige regime. Naar aanleiding van de uitkomsten van het inlichtingenonderzoek
+van de AIVD heeft Nederland maatregelen genomen tegen
+twee Iraanse diplomaten.
+
+Landen waarvan wij zien dat zij bereid zijn om hun
+geëmigreerde (ex-)landgenoten te beïnvloeden en
+onder druk te zetten zijn onder andere China, Iran,
+Rusland en Turkije.
+
+Sabotage en misbruik
+infrastructuur
+Staten kunnen ook een dreiging vormen voor de
+onafhankelijkheid en zelfstandigheid van
+Nederland doordat zij digitale sabotage van vitale
+
+infrastructuur mogelijk maken. Dit doen zij door
+zich toegang te verschaffen en zich vervolgens in te
+nestelen in ICT-systemen van vitale processen. De
+AIVD heeft gezien dat hiertoe pogingen zijn gedaan.
+
+(NCTV) en verscheidene ministeries geïnformeerd
+over onze bevindingen. Hierbij spelen ook de
+accountmanagers van de inlichtingendiensten bij
+de politie een belangrijke rol.
+
+In de richting van Nederland ontbreekt nog de
+intentie om daadwerkelijk sabotageacties uit te
+voeren op de vitale infrastructuur. Een verstoring in
+bijvoorbeeld de energievoorziening in landen om
+ons heen kan echter ook gevolgen hebben voor
+Nederland. De geopolitieke onrust in de wereld
+maakt een sabotageactie wel voorstelbaarder. Zo
+heeft onder andere Rusland een offensief cyberprogramma voor verstoring en zelfs sabotage van
+de vitale infrastructuur.
+
+Wij hebben over spionage en ongewenste buitenlandse inmenging rond de 40 inlichtingenrapporten uitgebracht.
+
+Nederland voelt verder een bijzondere verantwoordelijkheid voor de ICT-infrastructuur waar internetverkeer van vrijwel de hele wereld doorheen
+stroomt. Net zoals ons land zich verantwoordelijk
+voelt voor vliegverkeer dat via Schiphol reist of
+vrachtschepen die de Rotterdamse haven aandoen.
+Onze ICT-infrastructuur wordt namelijk door
+sommige landen misbruikt om digitale spionage-,
+beïnvloedings- of sabotageactiviteiten tegen andere
+landen uit te voeren. Door deze activiteiten worden
+de internationale rechtsorde en belangen van
+andere landen, bondgenoten in het bijzonder,
+geschaad.
+Landen waarvan wij zien dat zij zich schuldig maken
+aan sabotage en/of misbruik van de ICT-infrastructuur zijn onder andere Iran, Noord-Korea en
+Rusland.
+
+Activiteiten en resultaten
+
+Vanuit onze onderzoeken hebben wij duiding
+kunnen geven over de risico’s van spionage en
+buitenlandse inmenging voor Nederland en voor
+bedrijven. Daarvoor hebben wij diverse instanties
+bezocht, honderden (bewustwordings-)presentaties
+gegeven en overheidspartners zoals de Nationaal
+Coördinator Terrorismebestrijding en Veiligheid
+
+Het aantal vragen aan de AIVD over de continuïteit
+en integriteit van cruciale en vitale systemen
+binnen en buiten de overheid is het afgelopen jaar
+toegenomen. Mede daarom hebben wij binnen de
+rijksoverheid versneld detectiemiddelen ontwikkeld en geïnstalleerd om aanvallen tijdig te kunnen
+onderkennen. Hiervoor was aan de AIVD extra geld
+toegekend voor 2018.
+Ook is ons om advies gevraagd over de risico’s voor
+de nationale veiligheid bij de uitrol van een
+vernieuwd C2000-systeem. De AIVD vindt het
+onwenselijk dat Nederland voor de uitwisseling van
+gevoelige informatie of voor vitale processen
+afhankelijk is van de hard- of software van bedrijven
+uit landen waarvan is vastgesteld dat ze een
+offensief cyberprogramma tegen Nederlandse
+belangen voeren. Wij maken aan betrokken
+partijen zoals ministeries inzichtelijk hoe de
+verhoudingen zijn tussen dergelijke bedrijven en
+hun overheid, zodat zij de risico’s kunnen afwegen.
+Het is belangrijk om te kijken naar mogelijkheden,
+intenties en belangen van de betrokken staten en
+de nationale wetgeving. Het is ook van belang dat
+de Nederlandse gebruiker ervoor zorgt dat hij altijd
+controle heeft over zijn eigen data.
+In 2018 hebben de AIVD en de MIVD gezamenlijk het
+Cyber Inlichtingenbeeld opgesteld. Dit is een
+staatsgeheim rapport voor vrijwel de gehele
+rijksoverheid met een schets van het actuele
+dreigingsbeeld en de verwachte ontwikkelingen.
+Met extra toegekend budget hebben wij sterk
+ingezet op het werven van nieuwe medewerkers en
+| 11
+
+technische experts voor de onderzoeken naar
+digitale dreigingen. De werving van hoogwaardig
+technisch personeel en van inlichtingenpersoneel
+met technische affiniteit vergt grote inspanning,
+zeker op de huidige arbeidsmarkt.
+In internationaal verband hebben wij nauw
+samengewerkt met buitenlandse collega-diensten
+en met hen kennis uitgewisseld over ontwikkelingen ten aanzien van buitenlandse inmengingspogingen. We hebben hen in concrete gevallen
+kunnen voorzien van relevante inlichtingen.
+Lees meer op aivd.nl/spionage.
+
+12 |
+
+(Jihadistisch) terrorisme en
+de radicale islam
+Binnen het aandachtsgebied terrorisme gaat de
+meeste aandacht van de AIVD uit naar het jihadistisch terrorisme, maar terrorisme is niet voorbehouden aan jihadisten. De voedingsbodem voor
+jihadistisch-terroristisch geweld kan worden
+gevormd door de radicale islam, waarvan het
+salafisme de bekendste variant is.
+
+Jihadistisch terrorisme
+
+In Nederland was het afgelopen jaar sprake van een
+toename van incidenten met een jihadistische,
+terroristische of radicaalislamitische achtergrond.
+De jaren hiervoor bleef Nederland wat aanslagen
+betreft buiten schot en waren er vooral terroristische incidenten in de landen om ons heen. De
+willekeurig gekozen slachtoffers vielen bij
+steekincidenten op alledaagse, vrij toegankelijke
+locaties, met schijnbaar weinig voorbereiding.
+
+Incidenten en arrestaties
+Sinds de moord op Theo van Gogh in 2004 vonden
+in ons land geen incidenten meer plaats door
+extremistische en terroristische jihadisten. Tot
+afgelopen jaar. In 2018 vond een aantal voorvallen
+plaats waarbij de dader vermoedelijk vanuit een
+jihadistisch of radicaalislamitisch motief handelde
+of wilde handelen.
+Op 5 mei stak een Syrische man in Den Haag drie
+mensen neer. Het Openbaar Ministerie verdenkt de
+man, die ernstige psychische problemen heeft, van
+poging tot moord met een terroristisch motief.
+Op 31 augustus vond op station Amsterdam Centraal
+een steekpartij plaats waarbij een 19-jarige Afghaan,
+die uit Duitsland kwam, twee mensen ernstig
+verwondde. De man verklaarde dat hij wraak wilde
+nemen vanwege een cartoonwedstrijd over de
+profeet Mohammed, die PVV-leider Geert Wilders in
+het voorjaar had aangekondigd.
+
+Een aantal dagen daarvoor was op station Den Haag
+Centraal ook een Pakistaan gearresteerd die om
+dezelfde reden een aanslag wilde plegen op de
+PVV-leider. De verdachte richtte zich tegen Geert
+Wilders omdat in zijn ogen met de wedstrijd de
+profeet werd beledigd. Het Openbaar Ministerie
+heeft hem het voorbereiden van een aanslag met
+terroristisch oogmerk ten laste gelegd.
+Daarnaast vonden diverse arrestaties plaats van
+jihadisten in Nederland. Zo leidde de samenwerking van de AIVD met diverse internationale en
+nationale partners op 17 juni tot de aanhouding van
+drie personen in Rotterdam. Twee van hen worden
+verdacht van het voorbereiden van een terroristische aanslag in Frankrijk. Het is niet uitgesloten
+dat zij ook Nederlandse doelwitten overwogen.
+Wellicht het meest in het oog springende voorval
+op dit gebied in Nederland was de aanhouding van
+zeven jihadisten op 27 september. Uit onze
+onderzoeken bleek dat zij behoorden tot een
+jihadistisch netwerk waarvan de oorsprong in
+Arnhem lag, en dat zij voorbereidingen aan het
+treffen waren voor een grootschalige terroristische
+aanslag op een evenement in ons land.
+
+De AIVD deed al langere tijd onderzoek naar de betrokkenen van een jihadistisch netwerk in Arnhem. Deze leden
+maakten deel uit van de kern van de jihadistische
+beweging in Nederland. Op 25 april 2018 brachten wij een
+eerste ambtsbericht uit aan de Landelijk Officier van
+Justitie Terrorismebestrijding over voorbereidingen die de
+groep trof om een aanslag op een grootschalig evenement
+te plegen. Daarbij wilden zij zoveel mogelijk slachtoffers
+maken. Het is zeer zorgelijk dat onder een deel van de
+jihadistische beweging in Nederland de intentie leeft om
+een grote aanslag te plegen op dergelijke ‘soft targets’. De
+cel zou zich hebben laten inspireren door ISIS, maar
+opereerde voor deze aanslag zeer vermoedelijk zelfstandig. De leden hadden wel contact met andere jihadisten in
+binnen- en buitenland, maar deelden de plannen voor
+deze aanslag niet met mensen buiten hun eigen groep.
+
+| 13
+
+Jihadistische dreiging tegen het Westen
+De huidige jihadistische dreiging kenmerkt zich
+door een voortdurende dreiging van complexere en
+relatief eenvoudige aanslagen in en tegen het
+Westen. Dit gebeurt door mondiaal opererende
+jihadistische organisaties, zoals ISIS en Al Qaida, en
+kleinere jihadistische netwerken of individuen. De
+incidenten van het afgelopen jaar en de vele
+arrestaties tonen aan dat de jihadistische dreiging
+in West-Europa nog steeds aanwezig is.
+Dreiging vanuit ISIS en Al Qaida
+Ondanks het uiteenvallen van het zogenoemde
+kalifaat en het verlies van grondgebied blijft ISIS
+een dreiging vormen. Zo heeft de organisatie in
+2018 in Europa de verantwoordelijkheid opgeëist
+voor aanslagen in Luik (België), Trèbes, Parijs en
+Straatsburg (Frankrijk). Wel hebben de teloorgang
+van het kalifaat en het verlies aan slagkracht bij ISIS
+geleid tot vermindering van de aantrekkingskracht
+op jihadisten.
+Ook Al Qaida wil het Westen nog altijd treffen met
+aanslagen. Het heeft de afgelopen jaren in de luwte
+van ISIS kunnen werken aan het versterken van zijn
+organisatie. Netwerken en afdelingen die worden
+gerekend tot Al Qaida richten zich daarbij nog altijd
+op aanslagplanning tegen het Westen.
+Dreiging van uitreizigers
+De mogelijke dreiging van uitreizigers kent twee
+aspecten. Enerzijds zijn er uitgereisde strijders die
+er nog steeds voor kiezen om te verblijven bij
+terroristische groepen als Al Qaida en ISIS in Syrië
+en/of Irak. Zij staan met regelmaat in contact met
+het ‘thuisfront’ in het Westen. Hierdoor dragen ze
+bij aan de verdere inbedding van het jihadistisch
+gedachtegoed in gemeenschappen in het Westen.
+Zij maken gebruik van deze contacten om personen
+aan te sporen tot (ondersteuning van) aanslagen.
+Anderzijds zijn inmiddels aanzienlijke aantallen
+strijders uit Syrië en Irak teruggekeerd naar Europa,
+ook naar Nederland. Eind 2018 waren dat er circa 55.
+14 |
+
+De terugkeer vindt druppelsgewijs plaats en het
+gaat daarbij zowel om vrouwen, al dan niet met
+kinderen, als om mannen. Per persoon die
+terugkeert, maakt de Nederlandse overheid een
+afweging in welke mate deze een dreiging vormt.
+Eind 2018 bevonden zich nog zo’n 135 jihadisten
+met een Nederlandse achtergrond bij terroristische
+groepen in Syrië en Irak.
+De uitdaging voor de AIVD, en voor de hele
+Nederlandse overheid, is om te achterhalen met
+welk doel mensen terugkeren. Zijn ze gedesillusioneerd door de zware omstandigheden, gevlucht en
+missen ze de Nederlandse vrije samenleving? Zijn ze
+getraumatiseerd door de confrontatie met of
+deelname aan geweld? Zoeken ze hier contact met
+jihadisten in Nederland en geven ze de beweging
+een extra impuls? Zijn ze gestuurd door de
+organisatie daar om in het Westen een aanslag te
+plegen of deze te ondersteunen?
+Onderkende terugkeerders worden aangehouden
+en staan terecht. Wij schatten in dat een deel van
+deze jihadisten tijdens hun gevangenisstraf en erna
+waarschijnlijk niet zal afzien van het gedachtegoed.
+Zij kunnen zich weer aansluiten bij de jihadistische
+netwerken waaruit ze voortkomen of nieuwe
+netwerken vormen.
+Het Nederlandse detentiesysteem waar terrorismeverdachten en -veroordeelden bij elkaar en niet bij
+andere gedetineerden worden geplaatst, voorkomt
+grotendeels dat niet-extremistische gedetineerden
+door jihadisten worden geradicaliseerd en
+gerekruteerd. In andere Europese landen gebeurt
+dat wel. Het Nederlandse systeem kan wel leiden tot
+ongewenste onderlinge beïnvloeding en vorming
+van nieuwe netwerken. Daarnaast komen in Europa
+de komende jaren veel gedetineerde jihadisten vrij.
+De AIVD verwacht dat gedetineerde jihadisten en
+vrijgelaten (ex-)jihadisten een belangrijk onderdeel
+van het dreigingsbeeld zullen vormen.
+
+Nederlandse jihadistische beweging telt ruim 500
+personen
+De jihadistische beweging in Nederland is een
+dynamisch geheel van individuen en groepen die
+het jihadistisch gedachtegoed aanhangen. Deze
+beweging kent geen hiërarchie of strak omlijnde
+structuur. Veel jihadisten staan met elkaar in
+contact in zowel de echte als de virtuele wereld.
+Velen ondernemen als groep activiteiten. Diverse
+groepen staan in contact met elkaar of met
+jihadistische groepen en individuen in het
+buitenland. Daarnaast zijn er jihadisten die alleen
+staan en geïsoleerd leven van gelijkgestemden.
+Wij rekenen ruim 500 personen tot de jihadistische
+beweging in Nederland. Enkele duizenden
+personen in Nederland sympathiseren met het
+jihadistisch gedachtegoed zonder echt tot de
+beweging te behoren.
+De jihadistische beweging in Nederland is voornamelijk pro-ISIS, maar er zijn ook jihadisten die meer
+op de lijn van Al Qaida zitten. De beweging was in
+de afgelopen jaren zeer gericht op de oorlog in
+Syrië en het kalifaat van ISIS. Ruim 300 jihadisten
+reisden naar die regio. Nu er geen fysiek kalifaat
+meer bestaat, is die focus verminderd. Er is sprake
+van een fase van heroriëntatie, waarin de jihadisten
+zich nu meer richten op het verspreiden van hun
+leer of ideologie en op versterking van hun
+netwerken.
+Of de beweging groter en krachtiger wordt, is
+afhankelijk van meerdere factoren. Daarbij is te
+denken aan de opkomst van nieuwe leiders en
+nieuwe bronnen van inspiratie, of kwesties die zich
+voordoen en de beweging opnieuw kunnen
+mobiliseren. De oorlog in Syrië was zo’n momentum in het begin van dit decennium. Ook in de
+huidige fase van heroriëntatie gaat dreiging uit van
+de jihadistische beweging in Nederland, zoals
+onder meer de arrestaties van het Arnhemse
+netwerk aantonen.
+
+Onconventionele aanslagmiddelen
+Afgelopen jaar was in het Westen in enkele gevallen
+sprake van een mogelijk gebruik van onconventionele aanslagmiddelen in de vorm van biologische
+stoffen, zoals in Duitsland en Italië. We zien dat
+dergelijke kennis wordt verspreid door de handleidingen voor het maken en inzetten van chemische
+middelen en biologische gifstoffen op te nemen in
+propaganda-uitingen.
+
+Activiteiten en resultaten
+
+In 2018 hebben wij meer dan 100 inlichtingenrapporten uitgebracht over de ontwikkelingen
+binnen het jihadistisch en radicaalislamitisch
+terrorisme. Wij hebben het Openbaar Ministerie via
+35 ambtsberichten informatie kunnen verschaffen
+voor hun strafrechtelijke onderzoeken. Daarnaast
+hebben wij aan de Immigratie- en
+Naturalisatiedienst 8, aan het ministerie van
+Buitenlandse Zaken 3 en aan burgemeesters 2
+ambtsberichten hierover uitgebracht. Verder
+hebben wij in 2018 een publicatie uitgebracht over
+de stand van zaken met betrekking tot ISIS en
+Al Qaida in relatie tot de strijd in Syrië.1
+Grensoverschrijdende dreigingen vragen om een
+grensoverschrijdend antwoord. Ook in 2018 is
+internationale samenwerking tussen collegadiensten cruciaal gebleken in het bestrijden van
+terrorisme.
+Deze samenwerking is deels verankerd in de
+Counter Terrorism Group (CTG). Dat is een samenwerkingsverband van de veiligheidsdiensten uit de
+EU-landen plus Noorwegen en Zwitserland. Het in
+ons land gevestigde platform waarbinnen gegevens
+over jihadstrijders direct met elkaar worden
+gedeeld, vereenvoudigt de samenwerking en draagt
+bij aan het krijgen van beter inzicht in transnationale en internationale verbanden.
+1
+
+‘De erfenis van Syrië, mondiaal jihadisme blijft dreiging
+voor Europa’, AIVD, november 2018.
+
+| 15
+
+Deze samenwerking versterkt onze inlichtingenpositie en die van de aangesloten partners.
+Concreet leidt deze samenwerking tot het eerder
+onderkennen, identificeren en aanhouden van
+potentiële jihadistische aanslagplegers in Europa.
+Lees meer op aivd.nl/terrorisme.
+
+Radicale islam
+
+Het onderzoek van de AIVD naar de radicale islam
+richt zich op twee soorten dreiging die uit de
+radicale islam kunnen voortvloeien. Enerzijds is er
+de dreiging van verdere radicalisering naar het
+(gewelddadige) jihadistisch gedachtegoed.
+Anderzijds bestaat er dreiging voor de democratische rechtsorde vanuit een intolerante religieuze
+ideologie. We hebben hier te maken met een
+fenomeen dat op gespannen voet staat met onze
+democratische rechtsorde, maar zich (nog) binnen
+de juridische kaders beweegt. Ons onderzoek richt
+zich grotendeels op bepaalde aanjagers in het
+salafistisch spectrum.
+
+Ongewenste financiering uit het buitenland
+De AIVD onderzoekt in hoeverre islamitische
+instellingen financiële steun ontvangen vanuit het
+buitenland, waaronder de Golfstaten. Deze steun
+kan gepaard gaan met inmenging op ideologisch
+vlak. Indien deze buitenlandse beïnvloeding een
+dreiging oplevert voor de democratische rechtsorde, hebben wij hier nadrukkelijk oog voor. Wij
+werken in Europees verband nauw samen op dit
+onderwerp.
+
+Radicale invloed binnen het onderwijs
+De AIVD constateert dat radicaalislamitische
+aanjagers zich sterk weten te positioneren binnen
+het aanbod van het onderwijs voor jonge moslims.
+Hierbij kan gedacht worden aan naschoolse lessen
+in Arabisch en de islam. Ook voor leerlingen met
+een gematigde achtergrond zijn dergelijke
+onderwijsprogramma’s aantrekkelijk.
+
+16 |
+
+Dit komt mede doordat voor hen vaak weinig of
+geen goede alternatieven voor naschools islamitisch onderwijs beschikbaar zijn.
+Deze onderwijsinitiatieven lijken op het eerste oog
+laagdrempelig en onschuldig. Wij zijn echter van
+mening dat kinderen en jongvolwassenen door
+deze invulling van het onderwijs vervreemden van
+de samenleving en mogelijk belemmerd worden in
+hun deelname aan de maatschappij. Dit wordt
+veroorzaakt door de onverdraagzame en antidemocratische denkbeelden van de initiatiefnemers.
+Op de lange termijn kan dit de sociale cohesie
+onder druk zetten en daarmee de democratische
+rechtsorde ondergraven.
+Waar voorheen slechts enkele gevestigde moskeeën
+en onderwijsinstellingen dit gedachtegoed
+verspreidden, is het aanbod inmiddels wijdvertakt.
+Een nieuwe generatie welbespraakte predikers is
+opgeleid en ontplooit eigen initiatieven om hun
+boodschap te verkondigen. Ook online zien
+aanjagers mogelijkheden om eenvoudig en snel
+hun doelgroep te bereiken. Uit ons onderzoek blijkt
+daarbij ook invloed van enkele individuen die een
+dubbele houding aannemen ten aanzien van het
+(gewelddadige) jihadistisch gedachtegoed, doordat
+zij daar niet direct afwijzend tegenover staan.
+Hiermee wordt mogelijk een voedingsbodem
+gecreëerd voor jihadisme.
+
+Activiteiten en resultaten
+
+Over de ontwikkelingen met betrekking tot de
+radicale islam zijn 6 ambtsberichten en 12
+inlichtingenrapporten uitgebracht.
+De AIVD werkt op dit dossier samen met de NCTV,
+diverse ministeries en lokale overheden. Aan de
+hand van concrete voorbeelden ondersteunen wij
+zowel de nationale als de regionale overheid.
+Zo bieden we handvatten ten aanzien van een
+fenomeen dat op gespannen voet staat met de
+democratische rechtsorde, maar zich (nog)
+
+overwegend binnen het strafrechtelijk toelaatbare
+beweegt. Het afgelopen jaar hebben wij hierover
+presentaties verzorgd aan diverse gemeenten en
+andere overheidspartners.
+Lees meer op aivd.nl/radicalisering.
+
+Niet-jihadistische terroristische
+organisaties
+De AIVD stelt vast dat de Koerdische Arbeiderspartij
+PKK in 2018 niet de intentie had om aanslagen te
+plegen in Europa. De PKK heeft als primair doel om
+geschrapt te worden van de EU-lijst van terroristische organisaties. Het gebruik van geweld in
+Europa zou daar niet toe bijdragen. De organisatie
+beschikt echter wel over geweldpotentieel en is in
+staat om in korte tijd PKK-aanhangers te
+mobiliseren.
+De PKK organiseerde in Europa – ook in Nederland
+– solidariteitsdemonstraties voor de slachtoffers die
+vielen door het Turkse militaire optreden in het
+Syrische Afrin. Onder de noemer #fightforAfrin
+werden in een aantal Europese landen – met name
+in Duitsland – brandaanslagen gepleegd tegen
+Turkse doelen, met zaakschade tot gevolg. De
+oproep daartoe kwam van een jongerengroepering
+die officieel niet onder de PKK valt, maar hier
+mogelijk wel aan gelieerd is.
+
+Activiteiten en resultaten
+
+In het kader van het onderzoek naar niet-jihadistische terroristische organisaties hebben wij in 2018
+4 inlichtingenrapporten en 2 ambtsberichten
+uitgebracht.
+Lees meer op aivd.nl/terrorisme.
+
+| 17
+
+Extremisme
+Extremisme is het actief nastreven en/of ondersteunen van diepingrijpende veranderingen in de
+samenleving die een gevaar kunnen opleveren voor
+(het voortbestaan van) de democratische rechtsorde. Dit kan gebeuren met ondemocratische
+methodes, zoals geweld en intimidatie, wat afbreuk
+kan doen aan het functioneren van de democratische rechtsorde.
+Hoewel de thema’s binnen het extremisme in het
+algemeen nog wel een ‘linkse’ en ‘rechtse’
+signatuur kennen, is die onderverdeling niet meer
+altijd goed te maken. Er zijn namelijk overtuigingen
+te benoemen waarover zowel ‘links’ als ‘rechts’ zich
+druk maakt. Dit komt vaak voort uit onvrede over
+en wantrouwen jegens de overheid.
+Doorgaans is daarbij hoogstens sprake van
+burgerlijke ongehoorzaamheid, zoals bij protesten
+tegen het natuurbeleid in de Oostvaardersplassen
+en tegen de gaswinning in Groningen. Deze
+protesten ontstijgen meestal het activisme niet en
+daarom is daar niet direct sprake van een dreiging
+voor de democratische rechtsorde.
+Wij achten het echter wel voorstelbaar dat
+splintergroepen of eenlingen geïnspireerd raken
+door het activisme en hun toevlucht zoeken tot
+extremisme. De AIVD heeft als taak om te signaleren
+wanneer deze activistische boosheid ontaardt in
+extremistische activiteiten.
+
+Haat jegens het vreemde,
+voorkeur voor eigen ras
+Voor bepaalde rechts-extremisten staat immigratie
+nog altijd gelijk aan islamisering. Immigratie en
+islamisering leveren in hun ogen een gevaar op
+voor de Nederlandse identiteit.
+
+18 |
+
+Het voelt voor deze rechts-extremisten alsof de
+overheid de Nederlandse cultuur in de uitverkoop
+doet door vluchtelingen uit islamitische landen toe
+te laten. Een zichtbare vertegenwoordiger van dat
+gedachtegoed is bijvoorbeeld de groepering
+Identitair Verzet.
+Het anti-islamstandpunt kent binnen het extremisme veel supporters, waarbij het steeds minder
+exclusief mannen zijn zoals voorheen. Ook trekt het
+anti-overheidssentiment dat binnen deze groep
+heerst sympathisanten aan die geen historie
+hebben met het rechts-extremisme. Zij koesteren
+eveneens wantrouwen tegen de (Europese) politiek
+en soms ook tegen de wetenschap en (massa-)
+media.
+Het behoeft geen betoog dat de AIVD kritiek op de
+islam, immigratie of de overheid op zichzelf niet als
+een vorm van rechts-extremisme beschouwt. Dit
+valt immers onder de vrijheid van meningsuiting.
+Wij beoordelen dergelijke uitingen als extremistisch als deze overgaan in haatzaaien, intimidatie
+en bedreigingen.
+Een deel van de extremisten pleit zelfs voor het
+voorkomen van vermenging van rassen. Dit
+etnisch-nationalistisch gedachtegoed vindt gehoor
+binnen de kring van aanhangers van het alt-rechtsgedachtegoed, zoals het ‘studiegenootschap’
+Erkenbrand. Op zich hebben zij ­– naar eigen zeggen
+– niets tegen het bestaan van meerdere rassen,
+maar Nederland is voor de Nederlanders.
+Er zijn ook extremisten die overtuigd zijn van de
+blanke suprematie. Deze personen nemen een
+antidemocratisch standpunt in en streven een
+racistische samenleving na waarin mensen niet als
+gelijk worden beschouwd. Dit is in strijd met de
+democratische rechtsorde.
+
+Verzet tegen ‘oorzaak’ van
+migrantenstromen
+Ook vanuit ‘links’ bestaat van oudsher verzet tegen
+het vreemdelingen- en asielbeleid. Hierbij wordt
+het beleid juist als te strikt beschouwd.
+Binnen het verzet tegen het vreemdelingen- en
+asielbeleid is een verschuiving van de aandacht te
+zien in de richting van defensie-orderbedrijven. Dit
+zijn bedrijven die goederen leveren aan het
+ministerie van Defensie. Men redeneert daarbij als
+volgt: zonder defensie-orderbedrijven zou er
+minder oorlog zijn, dus minder vluchtelingen en
+daarmee minder migrantenstromen. Ook het
+leveren van materialen aan de Europese grenswacht
+om migranten tegen te houden aan de Europese
+buitengrenzen wordt de bedrijven aangerekend. De
+Anti-Fascistische Actie (AFA) heeft zich afgelopen
+jaar aangesloten bij enkele niet-gewelddadige
+acties tegen dit soort bedrijven.
+
+Activiteiten en resultaten
+
+Op basis van ambtsberichten van de AIVD heeft het
+Openbaar Ministerie een strafrechtelijk onderzoek
+ingesteld naar een extremist die geweld wilde
+gebruiken tegen moslims. Dit heeft uiteindelijk
+geleid tot een veroordeling door de rechtbank
+begin december 2018.
+Wij hebben in 2018 binnen het aandachtsgebied
+extremisme in totaal 21 ambtsberichten uitgebracht
+en 8 inlichtingenrapporten opgesteld. Over de
+ontwikkelingen binnen het rechts-extremisme
+publiceerden wij in oktober ‘Rechts-extremisme in
+Nederland, een fenomeen in beweging’.2
+Lees meer op aivd.nl/extremisme.
+
+Er is daarnaast nog aandacht voor de ‘traditionele’
+doelwitten, zoals de makers en de uitvoerders van
+het vreemdelingen- en asielbeleid, de Immigratieen Naturalisatiedienst, Dienst Justitiële
+Inrichtingen en bouwbedrijven van detentiecentra.
+De acties tegen het asielbeleid zijn afgelopen jaar
+minder hard gevoerd dan enkele jaren geleden.
+Ideologie gebaseerd op de eigen identiteit
+Een opmerkelijke ontwikkeling binnen het
+activisme en extremisme is de versnippering van
+ideologieën waarbij men terugvalt op de eigen
+identiteit. Zo zijn er op basis van hun eigen
+identiteit georganiseerde anti-racisten die zich
+verzetten tegen de – in hun ogen – koloniale erfenis
+van Nederland en die de steun van ‘witte’ medestanders afwijzen.
+
+2
+
+‘Rechts-extremisme in Nederland, een fenomeen in
+beweging,’ AIVD, oktober 2018.
+
+| 19
+
+Voor een veilig Nederland
+In de hoofdstukken hiervoor zijn de dreigingen
+behandeld die wij zien voor de nationale veiligheid
+en de risico’s die bestaan voor Nederlandse
+belangen. Wij informeren diverse partners met
+unieke, voor hen relevante informatie, afkomstig
+uit onze onderzoeken. Hiermee stellen wij hen in
+staat om hun verantwoordelijkheid te nemen voor
+de nationale veiligheid. Wij noemen dit het creëren
+van handelingsperspectief.
+De AIVD heeft zelf beperkt de mogelijkheid om
+handelend op te treden. Maar wij bieden bijvoorbeeld met een ambtsbericht het Openbaar
+Ministerie handvatten om een strafrechtelijk
+onderzoek te starten naar activiteiten die een
+dreiging vormen voor de nationale veiligheid en die
+ook strafvervolging kunnen krijgen.
+Daarnaast gaat het om informatie voor bijvoorbeeld ministeries, uitvoeringsorganisaties,
+burgemeesters, onderwijsinstellingen maar ook
+bedrijven. Deze laatste zijn vooral van belang
+wanneer zij een rol hebben binnen vitale processen
+in onze samenleving. Denk daarbij aan bedrijven
+uit de energiesector of de burgerluchtvaart. Wij
+willen de weerbaarheid van Nederland bevorderen
+door al deze instanties te informeren, voor te
+lichten en waar mogelijk te adviseren over
+dreigingen die hen en daarmee iedereen in
+Nederland kunnen raken.
+
+en goederen te verkrijgen en wij proberen dit te
+voorkomen. Daarvoor is ook afgelopen jaar
+intensief kennis uitgewisseld met buitenlandse
+collega-diensten.
+Ook wordt veelvuldig samengewerkt met
+Nederlandse partijen die een rol spelen bij de
+exportcontrole, zoals het ministerie van
+Buitenlandse Zaken en de douane. Ons wordt
+regelmatig om advies gevraagd ten aanzien van een
+aanvraag van een exportvergunning. Daarnaast
+hebben wij ongevraagd diverse keren het ministerie
+van Buitenlandse Zaken geïnformeerd over
+verwervingspogingen die zijn geïdentificeerd. Het
+gaat dan vaak om goederen die gebruikt kunnen
+worden voor de ontwikkeling of productie van
+massavernietigingswapens of hun
+overbrengingsmiddelen.
+Wij geven daarnaast voorlichting aan relevante
+partijen over de risico’s van betrokkenheid bij de
+verspreiding van kennis en goederen voor massavernietigingswapens (proliferatie). Wij adviseren
+hen over wat zij kunnen doen om verdachte
+transacties te identificeren. Zo hebben wij diverse
+verwervingspogingen kunnen onderkennen en
+voorkomen.
+In 2018 hebben wij ten aanzien van proliferatie en
+exportcontrole 32 ambtsberichten aan het
+ministerie van Buitenlandse Zaken uitgebracht.
+Lees meer op aivd.nl/massavernietigingswapens.
+
+Tegengaan van verwerving van
+kennis en goederen
+Landen als Iran, Pakistan en Syrië zoeken in
+Nederland en andere westerse landen naar kennis
+en goederen die zij nodig hebben voor de ontwikkeling van hun programma’s voor massavernietigingswapens. In een gezamenlijke unit van de AIVD
+en de MIVD doen wij onderzoek naar de wijze
+waarop deze landen proberen de benodigde kennis
+20 |
+
+‘Veilige’ mensen op essentiële
+functies
+Op diverse plekken in de samenleving zijn functies
+te vinden vanwaaruit de persoon die deze functie
+vervult de nationale veiligheid schade kan
+toebrengen. Deze functies komen onder andere
+voor bij de rijksoverheid, de Nationale Politie en
+bedrijven die een rol spelen in vitale processen.
+
+De functies worden door de betrokken minister
+aangewezen als vertrouwensfunctie. Wij voeren
+veiligheidsonderzoeken uit om te beoordelen of wij
+aan een (kandidaat-)vertrouwensfunctionaris een
+‘verklaring van geen bezwaar’ (VGB) kunnen
+afgeven. Ook door het verrichten van veiligheidsonderzoeken stellen wij de betreffende instanties in
+staat om hun verantwoordelijkheid voor de
+nationale veiligheid te nemen.
+
+functie (wilden gaan) vervullen. Dat aantal wijkt
+nauwelijks af van het aantal verrichte onderzoeken
+(ruim 45.000) in 2017.
+
+Per 1 oktober 2018 is de ministeriële Regeling Unit
+Veiligheidsonderzoeken in werking getreden.3
+Hiermee is het kader geschapen om de Businessunit
+Veiligheidsonderzoeken van de AIVD en het Bureau
+Veiligheidsonderzoeken Defensie van de MIVD
+samen te laten gaan in een nieuwe Unit
+Veiligheidsonderzoeken (UVO). Vooruitlopend op
+deze samenwerking is per maart 2018 het beleid van
+de MIVD en AIVD op het gebied van veiligheidsonderzoeken gelijkgetrokken.4 Er zijn in 2018 eerste
+stappen gezet om ook de werkprocessen van beide
+organisaties te uniformeren. De gedachte achter
+het samengaan is: één beleid, één systeem, één
+locatie.
+
+De belangrijkste oorzaak daarvan is de substantieel
+verhoogde instroom van het aantal veiligheidsonderzoeken. De AIVD heeft in 2018 bijna 20% meer
+onderzoeken afgerond dan in 2017. De oorzaak voor
+deze stijging is bijna volledig terug te voeren op de
+toegenomen vraag naar onderzoeken in de
+burgerluchtvaart, die door ons afgehandeld
+moesten worden. Daarnaast heeft ook de voorbereiding op de gezamenlijke Unit
+Veiligheidsonderzoeken capaciteit gekost.
+
+Ook is in 2018 de elektronische Opgave Persoonlijke
+Gegevens (eOPG) beschikbaar gekomen voor een
+deel van de aanvragende werkgevers. Dit is
+voorlopig alleen voor AIVD-onderzoeken. Voor deze
+groep is het proces volledig gedigitaliseerd. Het
+gaat om de aanvraag die de werkgever doet en de
+persoonlijke gegevens die de werknemer voor het
+onderzoek moet invullen. De mensen die een
+veiligheidsonderzoek moeten ondergaan, loggen
+met DigiD in op een beveiligde omgeving.
+
+Naast de veiligheidsonderzoeken is er nog een vorm
+van screening die tot onze taken behoort. Wij doen
+in dat geval naslag naar bepaalde personen in onze
+eigen systemen. Dit gebeurt op verzoek van
+anderen. Hierbij is te denken aan een verzoek van
+de minister-president om naslag naar een
+kandidaat-bewindspersoon.
+
+De AIVD en de mandaathouders (Nationale Politie
+en Koninklijke Marechaussee) hebben in 2018
+gezamenlijk bijna 44.000 veiligheidsonderzoeken
+uitgevoerd naar personen die een vertrouwens3
+
+4
+
+Ministeriële regeling over taken van de Unit
+Veiligheidsonderzoeken, Staatscourant, nr. 53581,
+september 2018.
+Beleidsregel Veiligheidsonderzoeken, Staatscourant,
+nr. 10266, 21 februari 2018.
+
+Uitgangspunt is dat 90% van de veiligheidsonderzoeken die de AIVD zelf uitvoert binnen de maximale wettelijke beslistermijn van 8 weken moet zijn
+afgerond. Met bijna 89% werd dit streven nagenoeg
+gehaald.
+
+Lees meer op aivd.nl/veiligheidsonderzoeken.
+
+Naslag op verzoek van anderen
+
+Deze naslag in eigen systemen was niet expliciet als
+taak vastgelegd in de wet uit 2002. Met de invoering
+van de Wiv 2017 is dit een zelfstandige taak
+geworden.
+In 2018 hebben wij 31 naslagen verricht en over de
+uitkomsten daarvan ambtsberichten uitgebracht
+aan de betrokken instanties.
+Lees meer op aivd.nl/naslag.
+
+| 21
+
+Rol in het Stelsel bewaken en
+beveiligen
+De AIVD heeft net als de MIVD, de Nationale Politie
+en de NCTV een rol in het Stelsel bewaken en
+beveiligen. Dit stelsel is gericht op het veilig en
+ongestoord functioneren van hoogwaardigheidsbekleders zoals politici en leden van het Koninklijk
+Huis, diplomatieke vertegenwoordigingen en
+internationale organisaties.
+De essentie van het stelsel is dat niet alleen wordt
+gekeken naar concrete dreiging van bijvoorbeeld
+jihadistische terroristen en links- en rechts-extremisten, maar ook naar voorstelbare dreiging. Met
+risicoanalyses, dreigingsanalyses en dreigingsinschattingen stellen wij de NCTV in staat om te
+beslissen over eventuele beveiligingsmaatregelen.
+Wij hebben in totaal het afgelopen jaar 1 risicoanalyse, 10 dreigingsanalyses en 51 dreigingsinschattingen opgesteld in het kader van het
+Stelsel bewaken en beveiligen.
+Lees meer op aivd.nl/bewakenenbeveiligen.
+
+Informatiebeveiliging
+
+Een van de expertises van de AIVD is het adviseren
+van de rijksoverheid over de beveiliging van
+vertrouwelijke en staatsgeheime informatie. Ook
+ontwikkelen wij zelf middelen om dergelijke
+informatie veilig te houden.
+Een van de bijdragen voor een betere beveiliging
+van informatie betreft het opstellen van de
+Nationale Cryptovisie en -strategie, waarmee in
+2018 een start is gemaakt. Dit gebeurt samen met
+andere departementen. Ook leveren het bedrijfsleven en kennisinstellingen hiervoor inbreng. De
+Nationale Cryptovisie en -strategie beschrijft hoe
+ook in de toekomst cryptografische beveiligingsmaatregelen om gevoelige informatie te beschermen, beschikbaar blijven.
+
+22 |
+
+Vanuit het Nationaal Bureau Verbindingsbeveiliging
+(NBV) van de AIVD zijn afgelopen jaar veel mondelinge presentaties gegeven aan belanghebbenden.
+Daarnaast zijn 44 schriftelijke producten met
+dreigingsinformatie uitgebracht.
+Lees meer op aivd.nl/informatiebeveiliging.
+
+Een nieuwe wet
+Op 1 mei 2018 is de nieuwe Wet op de inlichtingenen veiligheidsdiensten, Wiv 2017, in werking
+getreden. De wet is een uitvloeisel van het rapport
+van de commissie-Dessens uit 2013 die concludeerde dat een wijziging van de oude Wiv (uit 2002)
+nodig was, omdat die niet meer voldeed.5 Om onze
+taken te kunnen blijven uitvoeren, was modernisering van de bevoegdheden nodig. Daarnaast biedt
+de wet een aanzienlijke versterking van de
+waarborgen voor de privacy.
+
+Moderne bevoegdheden
+
+In de Wiv 2002 was geen rekening gehouden met de
+snelheid van technologische ontwikkelingen. Voor
+communicatie en andere gegevensuitwisseling
+maakt iedereen tegenwoordig veelal gebruik van
+internettoepassingen. Dat leidt tot dataverkeer dat
+in grote hoeveelheden en met grote snelheid via
+kabels over de wereld raast. De oude wet bood
+alleen de mogelijkheid om ‘op de kabel’ dat verkeer
+te onderzoeken op basis van een kenmerk gericht
+op een specifieke persoon of organisatie.
+De essentie van het werk van de AIVD is om
+ongekende dreiging zichtbaar te maken. Zonder
+toegang tot digitale gegevensstromen is het niet
+mogelijk om nieuwe dreigingen te onderkennen.
+Een voorbeeld: als wij weten dat uit een bepaald
+deel van de wereld veelvuldig digitale aanvallen op
+Nederland worden uitgevoerd en wij hebben
+kunnen achterhalen over welke glasvezelfiber dat
+verkeer loopt, dan kunnen wij die datastroom
+onderzoeken op kenmerken die wij van de
+aanvallen kennen. Zo kunnen wij tijdig vaststellen
+waar de aanval zich op richt en niet pas op het
+moment dat de kwaadaardige software het doelwit
+al heeft bereikt en schade heeft aangericht.
+De techniek voor deze onderzoeksopdrachtgerichte
+(OOG-)interceptie op internetkabels vraagt een
+5
+
+‘Evaluatie Wet op de inlichtingen- en veiligheidsdiensten
+2002’, 3 december 2013.
+
+uitgebreide technische voorbereiding. In 2018
+hebben wij daarom nog geen gebruik gemaakt van
+deze bevoegdheid.
+
+Passende waarborgen
+
+Door het gebruik van internettechnologie is ook
+sprake van verkeer met grotere hoeveelheden data
+dan in het analoge tijdperk. Bovendien lopen alle
+soorten data door elkaar. Potentieel kunnen wij
+daarmee ook een grotere inbreuk maken op de
+privacy van meer personen.
+Bij het onderscheppen en onderzoeken van
+bepaalde datastromen via onderzoeksopdrachtgerichte (OOG-)interceptie bestaat bijvoorbeeld het
+risico dat wij ook verkeer tegenkomen van
+personen die geen kwaad in de zin hebben.
+Onderschepte data die niet relevant zijn voor ons
+onderzoek worden direct vernietigd. Het gaat om
+ongeveer 98% van de verzamelde gegevens.
+Onder de Wiv 2002 was voor de inzet van een groot
+aantal bijzondere bevoegdheden toestemming
+nodig van de minister van Binnenlandse Zaken en
+Koninkrijksrelaties. Met de Wiv 2017 is na de
+toestemming van de minister en voorafgaand aan
+de inzet een onafhankelijke toetsing nodig van de
+Toetsingscommissie Inzet Bevoegdheden (TIB). De
+Wiv 2017 schrijft bovendien striktere bewaartermijnen voor dan zijn voorganger.
+Bij het raadgevend referendum van 21 maart 2018
+over de Wiv 2017 stemde 49,4% van de kiezers tegen
+en 46,5% voor de wet.
+
+Het kabinet heeft na het referendum extra garanties
+toegezegd om tegemoet te komen aan de uitslag. Zo is
+beloofd de ‘wegingsnotities’ over buitenlandse samenwerkingspartners eerder af te ronden dan in de wet staat
+(1 mei 2020), namelijk voor 1 januari 2019. Voor alle
+diensten waarmee we samenwerken zijn deze afgerond. In
+een wegingsnotitie wordt beoordeeld in hoeverre een
+buitenlandse collega-dienst en het betreffende land
+| 23
+
+voldoen aan de wettelijke criteria en in welke mate
+samenwerking mogelijk is.
+Ook zullen wij ieder jaar opnieuw toestemming aan de
+minister vragen over het langer bewaren van de data die
+met onderzoeksopdrachtgerichte interceptie zijn vergaard.
+In de oorspronkelijke wet was geen sprake van een
+tussentijdse beoordeling. Wij moeten onderbouwen of en
+zo ja, waarom wij ze nog willen bewaren om op een later
+moment de relevantie te kunnen bepalen. Na 3 jaar
+worden de data sowieso vernietigd, behalve uiteraard die
+data waarvan wij hebben bepaald dat die relevant zijn
+voor ons onderzoek.
+Er wordt een beleidsregel opgesteld dat wij bij een verzoek
+om toestemming voor de inzet van een bijzondere
+bevoegdheid, naast de vereisten van noodzakelijkheid,
+proportionaliteit en subsidiariteit, expliciet moeten
+aangeven hoe wij ‘zo gericht mogelijk’ een bevoegdheid
+willen inzetten.
+Het kabinet sluit vrijwel uit dat OOG-interceptie op de
+kabel de komende jaren wordt ingezet voor onderzoek
+naar communicatie met oorsprong en bestemming in
+Nederland. Uitzondering hiervoor is onderzoek naar
+digitale aanvallen waarbij misbruik wordt gemaakt van
+de Nederlandse digitale infrastructuur. OOG-interceptie
+kan nodig zijn om een dergelijke dreiging te onderkennen.
+Verwerking van medische gegevens is alleen toegestaan in
+aanvulling op de verwerking van andere gegevens, dus als
+iemand onderwerp is van lopend onderzoek en de
+medische gegevens het sluitstuk vormen op de informatie
+die de AIVD nodig heeft om een dreiging goed in beeld te
+brengen. Als de AIVD op medische gegevens stuit die wij
+niet mogen inzien, zullen wij deze direct verwijderen.
+Voor het delen van gegevens over een journalist met
+buitenlandse diensten geldt dat steeds een zorgvuldige
+afweging wordt gemaakt. Hierbij wordt ook rekening
+gehouden met de functie van een individu en de
+bescherming van diens privacy en veiligheid. Indien de
+diensten vaststellen dat een journalist voorkomt in de
+
+24 |
+
+verzamelde data, zullen zij die gegevens niet delen, tenzij
+dat noodzakelijk is voor de nationale veiligheid.6
+
+Impact op het werk
+
+De kern van ons werk bestaat uit het verwerven en
+verwerken van gegevens. De nieuwe wet en de extra
+waarborgen voor burgers in de vorm van onder
+meer onafhankelijke toetsing en striktere bewaartermijnen hebben geleid tot extra inspanningen.
+Zoals uit dit jaarverslag blijkt, vroegen ook de
+geopolitieke ontwikkelingen en het dreigingsbeeld
+om grote inzet van onze medewerkers. Het is lastig
+gebleken de implementatie te combineren met een
+niet-afnemende inzet op de operationele taakuitvoering. De impact van de implementatie is groter
+dan bij de totstandkoming werd ingeschat.
+Zo vroeg de toestemmingsprocedure met de
+toetsing vooraf door de TIB om gewenning. In een
+tussenrapportage van de TIB in november gaf zij aan
+dat circa 5% van de verzoeken om toestemming niet
+op instemming van de TIB kon rekenen.7
+Daarnaast heeft de Commissie van Toezicht op de
+Inlichtingen- en Veiligheidsdiensten (CTIVD) op
+verzoek van het kabinet na de inwerkingtreding een
+nulmeting verricht en daarover gerapporteerd.
+Deze kritische voortgangsrapportage van begin
+december gaf een eerste inzicht in de implementatie van de nieuwe wet.8
+Het onderzoek richtte zich op elementen van de
+gemoderniseerde bevoegdheden zoals de zorgplicht, verantwoorde databeperking en OOGinterceptie (inclusief geautomatiseerde dataanalyse).
+6
+
+7
+
+8
+
+Kamerbrief met reactie op raadgevend referendum Wiv,
+dossier 34588, nr. 70
+Voortgangsbrief Toetsingscommissie Inzet Bevoegdheden;
+TIB, 1 november 2018.
+Voortgangsrapportage Commissie van Toezicht op de
+Inlichtingen- en Veiligheidsdiensten over de werking van
+de Wiv 2017; CTIVD, 4 december 2018.
+
+Ook keek de commissie naar de andere onderdelen
+van de wet waarin de bescherming van de burger is
+geregeld. De CTIVD onderzocht daarvoor de
+mogelijkheden om een klacht in te dienen of een
+misstand te melden.
+De CTIVD gaf in haar voortgangsrapportage aan waar
+de dienst risico liep op onrechtmatig handelen. Zij
+baseerde haar oordeel op het beleid en de procedures zoals die op dat moment waren vormgegeven en
+ingericht. Van daadwerkelijke onrechtmatigheid
+was geen sprake.
+De commissie beschreef in haar rapport ook dat
+veel onderdelen van de wet zeer complex zijn, zoals
+bijvoorbeeld het principe van datareductie. Hierbij
+gaat het om het vernietigen van gegevens die niet
+relevant blijken te zijn. Dat vraagt bij de systematiek
+en bij de technische uitvoering om de nodige
+aanpassingen.
+De rapportages van de TIB en de CTIVD gaven ons het
+signaal om de implementatie van alle facetten van
+de wet, naast onze primaire taakuitvoering, als
+prioriteit voor 2019 vast te stellen. Wij willen
+daarmee bereiken dat in de volgende rapportages
+van de commissies de gesignaleerde risico’s
+aanzienlijk zijn verlaagd.
+Lees meer op aivd.nl/nieuwewiv.
+
+| 25
+
+Bijlage: Cijfers
+Tabel 1: afgeronde veiligheidsonderzoeken door de AIVD en gemandateerde partijen.
+Onderzoeken
+
+Positieve besluiten
+
+Negatieve besluiten
+
+Totaal aantal besluiten
+
+A-niveau door AIVD
+
+2003
+
+17
+
+2020
+
+B-niveau door AIVD
+
+4294
+
+65
+
+4359
+
+C-niveau door AIVD
+
+723
+
+10
+
+733
+
+B-niveau door UVO overgenomen
+van KMar, Nationale Politie en
+Dienst Bewaken en Beveiligen
+
+2484
+
+942
+
+3426
+
+Onderzoeken door de AIVD
+
+9504
+
+1034
+
+10538
+
+B-niveau door KMar, Nationale
+Politie en Dienst Bewaken en
+Beveiligen
+
+33096
+
+-
+
+33096
+
+Tabel 2: afhandeling van bezwaar- en (hoger)beroepsprocedures naar aanleiding van besluiten veiligheidsonderzoeken.
+
+Ongegrond
+
+Gegrond
+
+Niet-ontvankelijk Totaal
+
+Binnengekomen bezwaren
+
+-
+
+-
+
+-
+
+103
+
+Beslissing op bezwaar
+
+30
+
+24
+
+4
+
+58
+
+Beslissing op beroep
+
+1
+
+2
+
+0
+
+3
+
+Beslissing op hoger beroep
+
+4
+
+2
+
+0
+
+6
+
+Tabel 3: klachten over de AIVD bij de minister van Binnenlandse Zaken en Koninkrijksrelaties.
+In behandeling op 1 januari 2018
+
+4
+
+Ingediend
+
+18
+
+Niet-gegrond verklaard
+
+6
+
+Deels gegrond verklaard
+
+0
+
+Niet in behandeling genomen
+
+3
+
+Ingetrokken
+
+1
+
+Naar tevredenheid informeel afgedaan
+
+8
+
+Nog in behandeling op 31 december 2018
+
+4
+
+Lees meer op aivd.nl/klachten.
+26 |
+
+Tabel 4: meldingen van vermoedens van misstanden bij de AIVD.
+
+2018
+
+0
+
+Lees meer op aivd.nl/misstanden.
+
+Tabel 5: verzoeken tot kennisneming van informatie aanwezig bij de AIVD (inzageverzoeken) per soort.
+Nog in behandeling op 1
+januari 2018
+
+Ingediend
+
+Afgehandeld
+
+Gehonoreerd
+
+Nog in behandeling op 31
+december 2018
+
+Gegevens over
+eigen persoon
+
+109
+
+130
+
+102
+
+37
+
+137
+
+Gegevens over
+overleden
+familielid
+
+20
+
+52
+
+31
+
+19
+
+41
+
+Gegevens over
+derden
+
+13
+
+16
+
+27
+
+2
+
+2
+
+Gegevens over
+bestuurlijke
+aangelegenheid
+
+13
+
+39
+
+31
+
+5
+
+21
+
+Totaal
+
+155
+
+237
+
+191
+
+63
+
+201
+
+Tabel 6: bezwaar- en (hoger)beroepsprocedures met betrekking tot kennisneming van informatie aanwezig bij de
+AIVD (inzageverzoeken).
+
+Bezwaar
+
+Afgehandeld
+
+Ongegrond
+
+Gegrond
+
+Niet-ontvankelijk Ingetrokken
+
+126
+
+104
+
+22
+
+0
+
+0
+
+Beroep
+
+27
+
+2
+
+3
+
+22
+
+0
+
+Hoger beroep
+
+14
+
+0
+
+3
+
+11
+
+0
+
+Lees meer op aivd.nl/inzageverzoeken.
+
+Tabel 7: aantal notificatieberichten.
+2018
+
+29
+
+Lees meer op aivd.nl/notificatieplicht.
+| 27
+
+Tabel 8: uitgebrachte rapporten van de CTIVD over het werk van de AIVD.
+
+2018
+
+5 (nr. 55, 56, 57, 58 en 59)
+
+Lees meer op aivd.nl/toezicht.
+Tabel 9: taps ingezet op basis van artikel 25 Wiv 2002 en artikel 47 Wiv 2017.
+2018
+
+Lees meer op aivd.nl/taps.
+
+28 |
+
+3517
+
+Algemene Inlichtingen- en Veiligheidsdienst
+aivd.nl
+Postbus 20010
+2500 EA Den Haag
+april 2019
+
+
