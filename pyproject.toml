@@ -7,6 +7,9 @@ authors = ["Laurens van Dijk <laurens.vandijk@kpn-cert.nl>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 structlog = "^20.1.0"
+numpy = "^1.19.4"
+markovify = "^0.8.3"
+spacy = "^2.3.2"
 
 [tool.poetry.dev-dependencies]
 
