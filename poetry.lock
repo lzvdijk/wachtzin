@@ -1,0 +1,39 @@
+[[package]]
+name = "six"
+version = "1.15.0"
+description = "Python 2 and 3 compatibility utilities"
+category = "main"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
+
+[[package]]
+name = "structlog"
+version = "20.1.0"
+description = "Structured Logging for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+six = "*"
+
+[package.extras]
+azure-pipelines = ["coverage", "freezegun (>=0.2.8)", "pretend", "pytest (>=3.3.0)", "simplejson", "pytest-azurepipelines", "python-rapidjson", "pytest-asyncio"]
+dev = ["coverage", "freezegun (>=0.2.8)", "pretend", "pytest (>=3.3.0)", "simplejson", "sphinx", "twisted", "pre-commit", "python-rapidjson", "pytest-asyncio"]
+docs = ["sphinx", "twisted"]
+tests = ["coverage", "freezegun (>=0.2.8)", "pretend", "pytest (>=3.3.0)", "simplejson", "python-rapidjson", "pytest-asyncio"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "d5d141de49077496a0400b8f0a16f62e0895593eb23efef5c1195576004e2357"
+
+[metadata.files]
+six = [
+    {file = "six-1.15.0-py2.py3-none-any.whl", hash = "sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"},
+    {file = "six-1.15.0.tar.gz", hash = "sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259"},
+]
+structlog = [
+    {file = "structlog-20.1.0-py2.py3-none-any.whl", hash = "sha256:8a672be150547a93d90a7d74229a29e765be05bd156a35cdcc527ebf68e9af92"},
+    {file = "structlog-20.1.0.tar.gz", hash = "sha256:7a48375db6274ed1d0ae6123c486472aa1d0890b08d314d2b016f3aa7f35990b"},
+]
