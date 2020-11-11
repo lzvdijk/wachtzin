@@ -7,14 +7,14 @@ Curated down to 158787 words by removing overly long words, words containing
 special characters and potentially offensive phrases (don't judge I need to send these to customers)
 """
 
-import random
+import secrets
 
 # prepare wordlist
 words = open('wordlist-easy.txt').read().splitlines()
 
 def randomword():
     try:
-        word = random.choice(words)
+        word = secrets.choice(words)
         return(word)
     except Exception as e:
         return(f"Error generating word! {e}")
