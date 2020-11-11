@@ -92,10 +92,10 @@ def strip_sentence(sentence):
 # setup wordlist/corpus
 try:
     rian = open('./source.txt', encoding='utf8').read()
-    aivd = open('./aivd/combined.txt', encoding='utf8').read()
+    aivd = open('./sources/combined_aivd_reports.txt', encoding='utf8').read()
     text_model_a = POSifiedText(rian, state_size=3)
-    text_model_b = POSifiedText(aivd, well_formed = False, state_size=3)
-    text_model = markovify.combine([text_model_a, text_model_b ], [ 2, 1 ])
+    # text_model_b = POSifiedText(aivd, well_formed = False, state_size=3)
+    # text_model = markovify.combine([text_model_a, text_model_b ], [ 3, 1 ])
     cybercorpus = True
 except Exception as e:
     print("Error loading text source")
@@ -112,8 +112,8 @@ if cyberveiligheid:
     for i in range(count):
         sentence = None
         while sentence is None: # model might error out and return a None object, just retry generation
-            sentence = text_model.make_short_sentence(160)
-            if sentence and len(sentence)< 30: # disregard short sentences
+            sentence = text_model_a.make_short_sentence(100)
+            if sentence and len(sentence)< 20: # disregard short sentences
                 sentence = None
         sentence = strip_sentence(sentence)
         print(sentence)
