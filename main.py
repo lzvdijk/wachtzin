@@ -101,9 +101,6 @@ def reg_strip_sentence(sentence):
 def setup_corpus():
 # setup wordlist/corpus
     try:
-        # source1 = open('./sources/marsman.txt', encoding='utf8').read()
-        # text_model = POSifiedText(source1, state_size=2)
-
         source1 = open('./sources/marsman.txt', encoding='utf8').read()
         source2 = open('./sources/vangeel.txt', encoding='utf8').read()
         source3 = open('./sources/nijhof.txt', encoding='utf8').read()
@@ -111,14 +108,6 @@ def setup_corpus():
         text_model_b = POSifiedText(source2, state_size=2)
         text_model_c = POSifiedText(source3, state_size=2)
         text_model = markovify.combine([text_model_a, text_model_b, text_model_c ], [ 1, 1, 1 ])
-
-        # source1 = open('./sources/combined_aivd_reports.txt', encoding='utf8').read()
-        # source2 = open('./sources/security.nl.txt', encoding='utf8').read()
-        # source3 = open('./source.txt', encoding='utf8').read()
-        # text_model_a = POSifiedText(source1, state_size=3)
-        # text_model_b = POSifiedText(source2, state_size=3)
-        # text_model_c = POSifiedText(source3, state_size=3)
-        # text_model = markovify.combine([text_model_a, text_model_b, text_model_c ], [ 1, 1, 1 ])
         return text_model
     except Exception as e:
         print(f"Error loading text source: {e}")
