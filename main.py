@@ -8,7 +8,11 @@ import markovify
 import spacy
 import re
 
-nlp = spacy.load("nl_core_news_sm")
+try:
+    nlp = spacy.load("nl_core_news_sm")
+except Exception as e:
+    print("Error loading spacy model! Did you run 'python -m spacy download nl_core_news_sm' ?")
+
 
 class POSifiedText(markovify.Text):
     def word_split(self, sentence):

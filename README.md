@@ -6,6 +6,8 @@ Generates poetry based on the public works of Marsman, van Geel and Nijhof
 
 ## Installing and running
 
-If you're using python>3.6, you shouldn't really have to install anything. Just pull this repo and run ```main.py```.
+The fastest way to install this project is by running ```poetry install```.
 
-Poetry support is included for future development.
+The spacy model can be downloaded by running ```poetry run python -m spacy download nl_core_news_sm```
+
+Run the main project using ```poetry run python main.py```
