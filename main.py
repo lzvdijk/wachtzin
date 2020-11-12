@@ -9,6 +9,7 @@ import spacy
 import re
 
 try:
+    gpu = spacy.prefer_gpu()
     nlp = spacy.load("nl_core_news_sm")
 except Exception as e:
     print("Error loading spacy model! Did you run 'python -m spacy download nl_core_news_sm' ?")
@@ -51,7 +52,7 @@ def setup_corpus():
         text_model_a = POSifiedText(source1, state_size=2)
         text_model_b = POSifiedText(source2, state_size=2)
         text_model_c = POSifiedText(source3, state_size=2)
-        text_model = markovify.combine([text_model_a, text_model_b, text_model_c ], [ 1, 1, 1 ])
+        text_model = markovify.combine([text_model_a, text_model_b, text_model_c ], [ 2, 2, 1 ])
         return text_model
     except Exception as e:
         print(f"Error loading text source: {e}")
@@ -67,9 +68,7 @@ def do_generation():
         for i in range(count):
             sentence = None
             while sentence is None: # model might error out and return a None object, just retry generation
-                sentence = text_model.make_short_sentence(140)
-                if sentence and len(sentence)< 60: # disregard short sentences, regenerate
-                    sentence = None
+                sentence = text_model.make_sentence(max_words=30, max_overlap_ratio=0.5, max_overlap_total=5, min_words=15, tries=100)
             sentence = reg_strip_sentence(sentence)
             sentence = str.lower(sentence)
             print(sentence) 
