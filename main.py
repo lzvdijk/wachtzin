@@ -4,6 +4,7 @@ Pseudorandom passphrase generator in Dutch.
 Generates poetry based on the public works of Marsman, van Geel and Nijhof
 """
 
+from unidecode import unidecode 
 import markovify
 import spacy
 import re
@@ -38,6 +39,7 @@ def get_password_count():
 
 
 def reg_strip_sentence(sentence):
+    sentence = unidecode(sentence)
     sentence = re.sub('[^A-Za-z0-9 ]+', '', str(sentence))
     sentence = re.sub('[  ]+', ' ', str(sentence))
     return sentence
@@ -49,10 +51,14 @@ def setup_corpus():
         source1 = open('./sources/marsman.txt', encoding='utf8').read()
         source2 = open('./sources/vangeel.txt', encoding='utf8').read()
         source3 = open('./sources/nijhof.txt', encoding='utf8').read()
+        # source1 = open('./sources/security.nl.txt', encoding='utf8').read()
+        # source2 = open('./sources/combined_aivd_reports.txt', encoding='utf8').read()
+        # source3 = open('./source.txt', encoding='utf8').read()
+        # text_model = POSifiedText(source3, state_size=2)
         text_model_a = POSifiedText(source1, state_size=2)
         text_model_b = POSifiedText(source2, state_size=2)
         text_model_c = POSifiedText(source3, state_size=2)
-        text_model = markovify.combine([text_model_a, text_model_b, text_model_c ], [ 2, 2, 1 ])
+        text_model = markovify.combine([text_model_a, text_model_b, text_model_c ], [ 1, 1, 2 ])
         return text_model
     except Exception as e:
         print(f"Error loading text source: {e}")
@@ -68,7 +74,7 @@ def do_generation():
         for i in range(count):
             sentence = None
             while sentence is None: # model might error out and return a None object, just retry generation
-                sentence = text_model.make_sentence(max_words=30, max_overlap_ratio=0.5, max_overlap_total=5, min_words=15, tries=100)
+                sentence = text_model.make_sentence(max_words=30, max_overlap_ratio=0.7, max_overlap_total=7, min_words=20, tries=100)
             sentence = reg_strip_sentence(sentence)
             sentence = str.lower(sentence)
             print(sentence) 

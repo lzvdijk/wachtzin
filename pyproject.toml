@@ -10,6 +10,7 @@ structlog = "^20.1.0"
 numpy = "^1.19.4"
 markovify = "^0.8.3"
 spacy = "^2.3.2"
+Unidecode = "^1.1.1"
 
 [tool.poetry.dev-dependencies]
 
